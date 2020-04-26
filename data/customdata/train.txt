@@ -432,6 +432,7 @@
 ./data/customdata/images/drone-38.jpg
 ./data/customdata/images/drone-4.jpg
 ./data/customdata/images/drone-40.jpg
+./data/customdata/images/drone-41.jpg
 ./data/customdata/images/drone-42.jpg
 ./data/customdata/images/drone-43.jpg
 ./data/customdata/images/drone-44.jpg
